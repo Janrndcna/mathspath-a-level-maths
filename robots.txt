@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://janrndcna.github.io/mathspath-a-level-maths/sitemap.xml
